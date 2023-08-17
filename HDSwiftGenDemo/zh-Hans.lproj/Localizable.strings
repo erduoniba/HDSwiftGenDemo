@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  HDSwiftGenDemo
+
+  Created by denglibing on 2023/8/16.
+  
+*/
+
+"hello" = "你好";
+"good" = "很棒";
